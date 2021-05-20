@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TBHFerris
+- 👀 I’m interested in coding!
+- 🌱 I’m currently learning Java and Javascript!
+- 📫 How to reach me, add me on discord: TBHFerris#0211
